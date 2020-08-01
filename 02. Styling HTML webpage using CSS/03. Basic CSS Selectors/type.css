@@ -1,0 +1,5 @@
+/* Change default size of h1 elements */
+
+h1 {
+	font-size: 3em;
+}

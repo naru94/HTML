@@ -1,0 +1,13 @@
+/* Apply a border to all elements with class value 'bordered' */
+
+h1{
+    color:blue;
+}
+
+p{
+    color:green;
+}
+
+.bordered {
+    border: 1px solid red;
+}

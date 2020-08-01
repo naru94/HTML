@@ -1,0 +1,28 @@
+/* Apply multiple styles to element with specific id value */
+#Nimesh {
+	font-size: 1em;
+    border: 3px double red;
+    font-style: italic;
+    color: red
+}
+
+#Rithwiq {
+	font-size: 1em;
+    border: 3px double yellowgreen;
+    font-style: italic;
+    color: yellowgreen
+}
+
+#Yadhu {
+	font-size: 1em;
+    border: 3px double blue;
+    font-style: italic;
+    color: blue
+}
+
+#Akash {
+	font-size: 1em;
+    border: 3px double purple;
+    font-style: italic;
+    color: purple
+}

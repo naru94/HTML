@@ -1,0 +1,8 @@
+/*Write CSS code here!*/
+/* Add styling to heading */
+/* Add styling to rounded class*/ 
+h1{
+    border: 15px dashed maroon;
+    border-radius: 10px;
+    padding: 10px 20px;
+}

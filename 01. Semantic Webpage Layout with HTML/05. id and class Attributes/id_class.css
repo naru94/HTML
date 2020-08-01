@@ -1,0 +1,19 @@
+#pageTitle{
+    font-style: italic;
+  }
+   
+.bordered {
+    border: 5px solid rgb(232,21,178);
+    border-radius: 10px;
+  }
+
+.red {
+    color: red;
+  }
+
+.blue {
+    color: blue;
+}
+.center {
+    text-align: center;
+}
