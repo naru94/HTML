@@ -1,0 +1,14 @@
+.btn {
+    border: 5px solid #a70000;
+    font-size: 3em;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #f16262;
+    color: #4c0303c2;
+}
+
+.btn:hover {
+    border-color: #ff0606;
+    background-color: #f35959;
+    color: #ff0202c2;
+}

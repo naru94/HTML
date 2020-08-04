@@ -1,0 +1,15 @@
+img {
+    opacity: 1;
+    width: 100%;
+    transition: opacity 3s ease;
+  }
+  
+.invisible {
+    opacity: 0; 
+  }
+  
+.imgContainer {
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid black;
+  }
